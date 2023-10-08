@@ -61,11 +61,12 @@ Data Type is the kind or form of a variable which is being used throughout the p
 - enum: Defines an enumeration type with named values.
 
   #### **OUTPUT**
-  ![image](https://github.com/sanskkriti/Data-Types-in-C-/assets/140137289/4f53f709-fac9-4ac3-b682-47dad5f50422)
+![a526ee19-23d3-470d-af8f-e9c66372f942](https://github.com/sanskkriti/Data-Types-in-C-/assets/140137289/975119cf-de0b-41f8-87db-ae506eb7ac9d)
+
 
 - Image color Output
-  
-![image](https://github.com/sanskkriti/Data-Types-in-C-/assets/140137289/5e952a12-9367-435f-8324-2e2010ffd050)
+  ![Screenshot 2023-10-08 at 11 27 57 AM](https://github.com/sanskkriti/Data-Types-in-C-/assets/140137289/26cd6976-3ee6-48aa-8520-5d975686e66e)
+
 
 
 
@@ -117,5 +118,4 @@ In summary, number comparison in C++ involves using comparison operators to eval
 5.Continue the Program: The program continues with the rest of its logic after the if-else statements.
 
 #### **OUTPUT**
-![image](https://github.com/sanskkriti/Data-Types-in-C-/assets/140137289/1fcea873-5bf4-4057-9b36-baeaad3e8ef1)
-
+![Screenshot 2023-10-08 at 11 28 07 AM](https://github.com/sanskkriti/Data-Types-in-C-/assets/140137289/7c778271-c8fb-40bc-be61-7cf0739eb9ce)
