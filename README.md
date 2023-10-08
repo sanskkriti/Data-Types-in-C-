@@ -117,3 +117,5 @@ In summary, number comparison in C++ involves using comparison operators to eval
 5.Continue the Program: The program continues with the rest of its logic after the if-else statements.
 
 #### **OUTPUT**
+![image](https://github.com/sanskkriti/Data-Types-in-C-/assets/140137289/1fcea873-5bf4-4057-9b36-baeaad3e8ef1)
+
