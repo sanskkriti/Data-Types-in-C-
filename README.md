@@ -61,7 +61,7 @@ Data Type is the kind or form of a variable which is being used throughout the p
 - enum: Defines an enumeration type with named values.
 
   #### **OUTPUT**
-![datatypes](https://github.com/Purvansha022609/Data-Types-in-C-/assets/139473344/8db9442d-19bf-4918-9790-23d305f7188a)
+  ![image](https://github.com/sanskkriti/Data-Types-in-C-/assets/140137289/4f53f709-fac9-4ac3-b682-47dad5f50422)
 
 - Image color Output
   
