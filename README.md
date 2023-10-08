@@ -65,7 +65,8 @@ Data Type is the kind or form of a variable which is being used throughout the p
 
 - Image color Output
   
-![image colour](https://github.com/Purvansha022609/Data-Types-in-C-/assets/139473344/0edfb7e8-ee6d-4400-a8c3-011f7e2f4b28)
+![image](https://github.com/sanskkriti/Data-Types-in-C-/assets/140137289/5e952a12-9367-435f-8324-2e2010ffd050)
+
 
 
 # **AIM**
